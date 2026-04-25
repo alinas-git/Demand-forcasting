@@ -8,6 +8,11 @@
 # Project Overview
 This project involves building a high-precision predictive model to forecast sales demand based on a large-scale dataset of over 4.5 million rows of historical sales records. The primary objective was to optimize inventory levels, ensuring that popular items remain in stock while reducing the costs associated with overstocking.
 
+* Analyzed over 4.5 million rows of sales data to spot trends in seasonality and trends.
+* Built a ML model with above 95% accuracy for sales prediction to avoid both overstocking & running out of popular in demand items.
+* Performance Improvement: Made the model smarter by adding 7-day and 30-day sales history.
+* Business Strategy: Found that promotions work best on items priced under 80, giving the marketing team a clear idea of where to focus their budget.
+
 # Technical Workflow
 * Data Analysis: Processed and cleaned 4.5M+ rows of data to identify seasonality and trend patterns.
 * Predictive Modeling: Built and tuned models to ensure robust performance across various product categories.
